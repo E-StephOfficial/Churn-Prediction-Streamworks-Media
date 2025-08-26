@@ -30,26 +30,26 @@ This project analyzes user behaviour data and built predictive models to identif
 
 # Visuals
 ## Correlation Heatmap  
-![Correlation Heatmap](visuals/correlation_heatmap.jpg)  
+![Correlation Heatmap](Churn-Prediction-Streamworks-Media/visuals/correlation_heatmap.jpg)  
 
 ## Watch Hours by Churn (Boxplot)  
-![Watch Hours by Churn](visuals/watchhours_churn_boxplot.jpg)  
+![Watch Hours by Churn](Churn-Prediction-Streamworks-Media/visuals/watchhours_churn_boxplot.jpg)  
 
 ## Tenure Days Distribution by Churn  
-![Tenure Distribution](visuals/tenure_distribution.jpg)  
+![Tenure Distribution](Churn-Prediction-Streamworks-Media/visuals/tenure_distribution.jpg)  
 
 ## Referrals vs Churn (Countplot)  
-![Referrals vs Churn](visuals/referrals_churn_countplot.jpg)  
+![Referrals vs Churn](Churn-Prediction-Streamworks-Media/visuals/referrals_churn_countplot.jpg)  
 
 ## Model Evaluation  
 - Confusion Matrix  
-  ![Confusion Matrix](visuals/confusion_matrix.jpg)  
+  ![Confusion Matrix](Churn-Prediction-Streamworks-Media/visuals/confusion_matrix.jpg)  
 
 - ROC Curve  
-  ![ROC Curve](visuals/roc_curve.jpg)  
+  ![ROC Curve](Churn-Prediction-Streamworks-Media/visuals/roc_curve.jpg)  
 
 - Residual Plot (Linear Regression)  
-  ![Residual Plot](visuals/residual_plot.jpg)  
+  ![Residual Plot](Churn-Prediction-Streamworks-Media/visuals/residual_plot.jpg)  
 
 # Recommendations  
 1. Strengthen onboarding journeys for new users.  
