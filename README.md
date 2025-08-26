@@ -1,13 +1,14 @@
 # Churn-Prediction-Streamworks-Media
 This project analyzes user behaviour data and built predictive models to identify the key drivers of churn and engagement for Streamworks Media. It leverages data analytics and machine learning techniques to provide actionable insights and improve user retention
+
 # Business Objective  
 - Build a predictive model to identify users likely to churn.  
 - Understand the factors influencing customer retention and engagement.  
 - Provide actionable recommendations to improve loyalty and reduce churn.  
 
 # Project Files  
-- [raw Data](streamworks_user.data.csv)  
-- [cleaned Data](cleaned_streamworks_user.data.csv)  
+- [Raw Data](data/streamworks_user_data.csv)  
+- [Cleaned Data](data/cleaned_streamworks_user_data.csv)  
 - [Jupyter Notebook](churn_prediction_streamworks_media.ipynb)  
 - [Business Report](StreamWorks_Media_Churn_Report.pdf)  
 
