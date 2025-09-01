@@ -64,5 +64,3 @@ This project analyzes user behaviour data and built predictive models to identif
 - Linear regression underperformed for predicting watch hours.  
 - Feature leakage should be checked to ensure valid modeling.
 
-# Contact
-Esther Ogbonna - www.linkedin.com/in/esther-ogbonna-0112602b0 - esthertiana27@gmail.com
